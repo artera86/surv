@@ -1,0 +1,6 @@
+{
+  "auto": true,
+  "instructions": "Answer the questions accurately using the supplied content. Do not invent personal facts or preferences.",
+  "max_pages": 20,
+  "timeout_ms": 30000
+}

@@ -1,0 +1,11 @@
+{
+  "platform": "decipher",
+  "question_container": "#primary .question",
+  "question_text": ".question-text",
+  "controls": "input[type=radio], input[type=checkbox], input[type=text], textarea, select",
+  "next": "#btn_continue",
+  "manual_questions": [
+    "SurveyConsent"
+  ],
+  "status": "Inspected consent page only. Survey adapter required; this is not a runner.py configuration."
+}

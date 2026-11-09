@@ -1,0 +1,10 @@
+{
+  "content": "#question",
+  "answer": "textarea[name=answer]",
+  "next": "button[type=submit]",
+  "done": "#complete",
+  "identity": "#step-number",
+  "instructions": "Answer using the provided content. Return only the answer. Do not invent personal information.",
+  "max_pages": 20,
+  "timeout_ms": 30000
+}
