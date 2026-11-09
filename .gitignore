@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+.browser-profile/
+artifacts/
+data/
+config.json
+.env
+.env.*
+*.sqlite3
+.codex/
+.agents/
+.aws/
